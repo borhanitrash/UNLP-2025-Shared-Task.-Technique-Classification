@@ -1,4 +1,4 @@
-# UNLP-2025-Shared-Task.-Technique-Classification
+# UNLP-2025-Shared-Task-Technique-Classification
 
 ## 3rd Place Solution for the UNLP 2025 Shared Task Technique Classification Competition
 
